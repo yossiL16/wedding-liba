@@ -18,7 +18,7 @@ export default function App() {
     { id: 4, date: "2026-03-11T00:00:00", img: "/image/PH-4.jpeg" },
     { id: 3, date: "2026-03-12T00:00:00", img: "/image/PH-3.jpeg" },
     { id: 2, date: "2026-03-13T00:00:00", img: "/image/PH-2.jpeg" },
-    { id: 1, date: "2026-03-14T00:00:00", img: "/image/PH-1.jpeg" },
+    { id: 1, date: "2026-03-13T00:00:00", img: "/image/PH-1.jpeg" },
   ]);
 
   
